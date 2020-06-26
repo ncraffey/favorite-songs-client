@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="24c50977-5d27-4fb3-8d1c-4db4a8a39a85" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.index.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/TopTen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TopTen.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1592788333095</updated>
       <workItem from="1592930650333" duration="82563000" />
-      <workItem from="1593123906987" duration="1307000" />
+      <workItem from="1593123906987" duration="1310000" />
     </task>
     <servers />
   </component>

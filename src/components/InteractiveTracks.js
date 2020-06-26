@@ -4,7 +4,7 @@ import TopTen from "./TopTen";
 
 const us_viral_top_50 = "37i9dQZEVXbKuaTI1Z1Afx"
 
-const us_top_10_label = "US Top 10"
+const us_top_10_label = "Top Tracks Globally (All-Time)"
 const suggested_label = "Suggested for You"
 const personal_favs_label = "Personal Favorites"
 const global_top_all_time = "2YRe7HRKNRvXdJBp9nXFza"
