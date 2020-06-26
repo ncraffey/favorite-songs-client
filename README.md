@@ -1,6 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-The npm library spotify-web-api-js was also used.
+# FavoriteSongs React Client!!
 
 ## Available Scripts
 
