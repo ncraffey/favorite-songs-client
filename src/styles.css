@@ -1,0 +1,311 @@
+@import url("https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap");
+
+body {
+    margin: 0;
+    font-family: "Nunito", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 400;
+    /*line-height: 1.5;*/
+    background-color: #282c34;
+    align-content: center;
+    text-align: center;
+    align: center;
+    alignment: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: auto;
+    float: none;
+    text-align: center;
+}
+
+h5 {
+    font-size: smaller;
+    text-align: center;
+}
+
+.invis {
+    display: none;
+    margin: 0;
+    padding: 0;
+}
+
+.brand-lg {
+    font-weight: 900;
+    color: whitesmoke;font-size: 200%;
+    margin: 0;
+    /*line-break: auto;*/
+    line-height: 75%;
+    padding: 5%;
+    align-self: center;
+}
+
+.fav {
+    font-weight: 900;
+    color: whitesmoke;
+    font-size: 100%;
+    margin: 5%;
+    line-break: strict;
+    line-height: 75%;
+    padding: 5%;
+    align-self: center;
+}
+
+.fav-lg {
+    font-weight: 900;
+    color: whitesmoke;
+    font-size: 200%;
+    margin: 5%;
+    line-break: strict;
+    line-height: 75%;
+    padding: 5%;
+    align-self: center;
+}
+
+.nav-col {
+    width: fit-content;
+    height: fit-content;
+    align-self: center;
+}
+
+.brand-lg-lg {
+    font-weight: 900;
+    color: whitesmoke;
+    font-size: 420%;
+    width: available;
+    margin: 0;
+    display: flex;
+    line-break: strict;
+    line-height: 75%;
+    padding: 5%;
+}
+
+.brand-sm {
+    font-weight: 400;
+    line-height: 1.5;
+    color: lightgoldenrodyellow;
+    margin:0;
+}
+
+.skinny-col {
+    padding:.5%;
+    margin:0;
+}
+
+.nav-form {
+    margin: 0;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.col-main {
+    width: 100%;
+}
+
+.main-container {
+    /*padding: 1em;*/
+    /*margin-right: 0px;*/
+    /*margin-left: 0px;*/
+}
+
+.outer-col {
+    padding:0px;
+}
+
+.col-title {
+    padding: 10px;
+    font-weight: 900;
+}
+
+.hand-picked-col-card-style {
+    background-color: rgb(122,165,163);
+    border-radius: 40px;
+    border-image-repeat: round;
+    /*margin-outside: 10px;*/
+    height: available;
+}
+
+.logged-out-col-card-style {
+    background-color: rgb(31, 83, 79);
+    border-radius: 40px;
+    border-image-repeat: round;
+    /*margin-outside: 10px;*/
+    width: 100%;
+    height:100%;
+    align-content: center;
+    alignment: center;
+    display: flex;
+}
+
+.inter-col {
+    height:100%;
+}
+
+.header-card-style {
+    background-color: #382c78;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    display: flex;
+}
+
+.footer-card-style {
+    background-color: #382c78;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    display: flex;
+}
+
+/*.row-card-style {*/
+/*    background-color: rgb(122,165,163);*/
+/*    border-radius: 40px;*/
+/*    border-image-repeat: round;*/
+/*    !*margin-outside: 10px;*!*/
+/*    margin: 0;*/
+/*    width: 100%;*/
+/*    align-content: center;*/
+/*    alignment: center;*/
+/*    display: block;*/
+/*}*/
+
+.nav-btn-style {
+    background-color: rgb(47, 115, 127);
+    border-radius: 40px;
+    border-image-repeat: round;
+    /*margin-left: 10%;*/
+    display: flex;
+    height:80%;
+}
+
+.search-style {
+    border-radius: 40px;
+    border-image-repeat: round;
+    height: available;
+    width: available;
+    align-self: center;
+    display: flex;
+    height: 80%;
+}
+
+.stats-col-card-style {
+    background-color: rgb(40,44,52);
+    border-radius: 40px;
+    border-image-repeat: round;
+    /*margin-outside: 10px;*/
+    height: available;
+    width: available;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+}
+
+.container-top-tracks {
+    width: available;
+    padding: 0;
+    margin: 0;
+}
+
+/*https://stackoverflow.com/questions/44667161/page-moving-left-and-right-while-in-mobile-browser*/
+html, body {width: auto!important; overflow-x: hidden!important}
+
+.stats-inner-col-card-style {
+    background-color: darkgray;
+    /*border-top: #282c34 40px;*/
+    border-radius: 20px;
+    height: available;
+    width: available;
+}
+
+.suggested-col-card-style {
+    background-color: rgb(204,91,90);
+    border-radius: 40px;
+    border-image-repeat: round;
+    /*margin-outside: 10px;*/
+    height:available;
+}
+
+.card-style {
+    background-color: rgb(40,44,52);
+    padding:15px;
+    border-radius:40px;
+    border-width: 1px;
+    border-image-repeat: round;
+    border-color: whitesmoke;
+}
+
+.light-text {
+    color: whitesmoke;
+}
+
+.song-name {
+    font-weight: 500;
+    padding-bottom: 5px;
+}
+
+.artist-name {
+    padding-top: 5px;
+    font-weight: 400;
+}
+
+.album-name {
+    padding-top: 2px;
+    font-weight: 100;
+}
+
+.nav-inline {
+    display:inline-block;
+}
+
+.grp {
+    float:right;
+}
+
+.nav-item {
+    display: inline-block;
+}
+
+.nav-btn {
+    font-size: smaller;
+    width: fit-content;
+    height: min-content;
+    /*float: right;*/
+    border-color: darkgray;
+    background-color: dimgray;
+    border-width: thin;
+}
+
+.search-bar-sm {
+    /*font-size: 12%;*/
+    width: available;
+    float: left;
+    border-color: darkgray;
+    background-color: whitesmoke;
+    border-width: thin;
+}
+
+.search-bar-lg {
+    font-size: larger;
+    width: available;
+    float: left;
+    border-color: darkgray;
+    background-color: whitesmoke;
+    border-width: thin;
+}
+
+.login-btn {
+    background-color: darkgreen;
+    border-radius: 90px;
+    border-image-repeat: round;
+    padding:10%;
+    border: seashell;
+    margin: 2%;
+    width: 100%;
+}
+
+.no {
+    background-color: rebeccapurple;
+}
