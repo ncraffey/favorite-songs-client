@@ -9,7 +9,7 @@ const Login = () => {
                     <h3 className={"brand-lg-lg"}>Login</h3>
                 </Row>
                 <Row style={{height:"30%"}}>
-                    <Button href={"http://localhost:8888/"} className={"login-btn"}>
+                    <Button href={"https://safe-cove-43916.herokuapp.com/"} className={"login-btn"}>
                         <h3 className={"brand-lg"}>Login with Spotify</h3></Button>
                 </Row>
                 <Row style={{height:"30%"}}>
